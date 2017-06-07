@@ -30,7 +30,7 @@
     <div id="preamble">
             <h1>Acerca de nosotros</h1>
 			<p> Ayudamos a que de una mascota perdida, su dueño pueda subir una foto a nuestro portal para que así pueda ser vista por cientos de personas y poder ser encontrada de una forma mucho más rápida que las convencionales y además de que nos encontramos a la vanguardia en cuanto a la era de la tecnología</p>
-			<p><span class="strong">Equipo, </span> somos un grupo de jovenes que a parte de ser amigos, somos orgullosos dueños de mascotas. Y estamos a la servicio de nuestros compañeros ciudadanos</p>
+			<p><span class="strong">Nuestro equipo, </span> somos un grupo de jovenes que a parte de ser amigos, somos orgullosos dueños de mascotas. Y estamos a la servicio de nuestros compañeros ciudadanos</p>
 			<p><span class="strong">Mascota perdida</span> nosotros trabajamos en colaboración con otras redes sociales, que son las que hoy en día llaman más que nada a los jovenes que son quienes nos ayudan a difundir más los mensajes de nuestras mascotas perdidas. Trabajamos con las plataformas de Facebook y Twitter que hoy en días son de las redes sociales más utilizadas por chicos y grandes, ofreciendonos así un gran soporte en cuanto a la difusión de nuestras mascotas perdidas.</p>
 			<p class="space-after"><span class="strong">Garantía</span> es algo que ofrecemos en cuanto usted comparta de manera honesta a su mascota perdida, y no la garantisamos de una manera rapida y eficas, pero con ayuda de las tecnologías garantisamos que su mascota se encuentra de una forma mucho más rápida</p>
 			<p></p>
