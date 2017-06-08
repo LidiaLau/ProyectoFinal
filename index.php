@@ -36,6 +36,9 @@
 	<a class="read-more" href="#">Leer más +</a></div>
 <p>&nbsp;
 	</p>
+	<?php 
+			echo '<img src="images/mascotas2.png" width="1200" height="160" alt="HACEMOS" title="HACEMOS">';
+		?> 
 
     </div>
 </header>
